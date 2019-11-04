@@ -1,0 +1,14 @@
+Datum	| Zeit	| Bemerkung
+----------------------------
+13.06.	| 5h	| Einrichten von openframeworks
+	|	| TestProjekt zum laufen bringen
+14.06	| 6h	| Map,Gegner,Cooky OBJ laden und platzieren
+	|	| Versuchen FBX zu laden und Animationen abzuspielen
+15.06	| 5h	| DAE statt FBX für Player genutzt, versucht mehrere 
+	| 	| mehrere Animationen zu laden und ab zu spielen
+18.06	| 8h	| Klassen Player, Cooky, Map erstellt und eingerichtet
+19.06	| 13h	| Klasse Enemy erstellt, Bugfix, Background, Win/LooseCondition
+	|	| Lightning
+20.06	| 10h	| Bugfixes,GUI versucht, Enemy Waypoints, Rota Fix Versuche
+-----------------------------
+Total: 37h

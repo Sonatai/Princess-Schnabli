@@ -1,0 +1,19 @@
+Requirements:
+	Openframeworks 0.10.1 mit folgenden Addons:
+		* ofxAssimModelLoader
+		* ofxGui
+		* ofxThreadedImageLoader
+	Genutzte IDE: Visual Studio 2017
+	Visual Studio Plugin openframeworks
+
+Build Instructions:
+Projektordner in of_v0.10.1_vs2017_release\apps\myApps verschieben
+in of_v0.10.1_vs2017_release\projectGenerator-vs die projectGenerator.exe starten
+Projektordner importieren und auf Generate/Update clicken
+in Visual Studio das Projekt einfach bauen
+
+Steuerung:
+w - vorwärts
+s - rückwerts
+a/d - Drehung nach links/rechts
+Leertaste/Mausklick - special move
